@@ -1,6 +1,6 @@
-export enum TopLevelCategory {
-    Courses,
-    Services,
-    Books,
-    Products,
+export enum TestEnum {
+  Courses,
+  Services,
+  Books,
+  Products,
 }
