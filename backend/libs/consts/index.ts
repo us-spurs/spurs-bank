@@ -1,6 +1,6 @@
 export enum TestEnum {
-  Courses,
-  Services,
-  Books,
-  Products,
+    Courses,
+    Services,
+    Books,
+    Products,
 }
