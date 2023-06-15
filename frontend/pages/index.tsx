@@ -19,7 +19,7 @@ const Home: NextPage = () => {
                 </h1>
 
                 <p className={styles.description}>
-                    Get started by retererterterediting <code className={styles.code}>pages/index.tsx</code>
+                    Get started by <code className={styles.code}>pages/index.tsx</code>
                 </p>
 
                 <div className={styles.grid}>
