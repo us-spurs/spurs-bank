@@ -3,4 +3,5 @@ export enum TestEnum {
     Services,
     Books,
     Products,
+    Products1,
 }
