@@ -26,6 +26,4 @@ describe('ElasticsearchService', () => {
             })
         })
     })
-
-    // Add more test cases for other Elasticsearch operations
 })
