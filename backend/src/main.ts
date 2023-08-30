@@ -14,7 +14,7 @@ async function bootstrap() {
     const gqlSchemaBuilder = app.get(GraphQLSchemaBuilderModule)
     gqlSchemaBuilder.build()
 
-    await app.listen(3000)
+    await app.listen(3001)
 }
 
 bootstrap()
